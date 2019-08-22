@@ -9,8 +9,6 @@ import Drawer from "@material-ui/core/Drawer";
 import { withStyles } from "@material-ui/core/styles";
 import { Link } from "react-router-dom";
 import menuItems from "./menuItems";
-import { ListItemIcon } from "@material-ui/core";
-import AccessAlarmIcon from "@material-ui/icons/Favorite";
 
 const styles = {
   list: {

@@ -6,8 +6,8 @@ class App extends Component {
   render(){
     return (
       <div>
-        <AppBar />
-        <SideBar/>
+                <div><AppBar /></div>
+        <div><SideBar/></div>
       </div>
     );
   }
