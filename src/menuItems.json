@@ -1,0 +1,18 @@
+{
+    "data" : [
+    {
+        "name": "Item 1",
+        "children": [{
+            "name": "Children 1",
+            "url": "/child1"
+        }]
+      },
+      {
+        "name": "Item 2",
+        "children": [{
+            "name": "Children 3",
+            "url": "/child1"
+        }]
+      }
+    ]
+  }
