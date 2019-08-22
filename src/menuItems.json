@@ -10,8 +10,8 @@
       {
         "name": "Item 2",
         "children": [{
-            "name": "Children 3",
-            "url": "/child1"
+            "name": "Children 2",
+            "url": "/child2"
         }]
       }
     ]
